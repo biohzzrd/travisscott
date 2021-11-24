@@ -19,6 +19,7 @@ t.ball <question> - MaGiC 8BaLl bY tRaViS
 t.invite - Gives you bot invite link
 t.coinflip <Орел, решка> - coinflip (no eng version yet)
 t.lafka <@user> - checks your chances for relationship with this person
+t.dox @user - Doxes a user
 
 
 BTW IM NOT ENGLISH SO HELP CONTAINS SOME MISTAKES
@@ -58,4 +59,5 @@ t.ball <вопрос> - активирую свои знания пророка
 t.invite - дам ссылку на свое приглашение
 t.coinflip <орел, решка> - подброшу монетку
 t.lafka <@user> - Проверю вашу совместимость
+t.dox @user - Доксит чела
 
